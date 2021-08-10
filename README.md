@@ -20,10 +20,6 @@
  </a>
 
 <hr> 
-<a href="https://github.com/bhavesh-chaudhari">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavesh-chaudhari&show_icons=true&theme=algolia&line_height=22" alt="Bhavesh's github stats"/>
-</a>
-<a href="https://github.com/bhavesh-chaudhari">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-chaudhari&theme=algolia&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" />
-</a>
-<hr>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavesh-chaudhari&show_icons=true&theme=light&line_height=22" alt="Bhavesh's github stats"/>    | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-chaudhari&theme=light&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" /> | 
+| :---        |    :----:   |        
