@@ -1,6 +1,6 @@
 #### Hi, I am Bhavesh Chaudhari. I am interested in Full Stack Web Development and Data Science.
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh-chaudhari&label=Profile Views&color=blueviolet&style=plastic" alt="Bhavesh" /> </p> -->
- <a href="https://twitter.com/bhaveshC07">
+ <a href="https://twitter.com/bhaveshc0">
   <img align="center" alt="Bhavesh's " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
  </a>
  &nbsp;
